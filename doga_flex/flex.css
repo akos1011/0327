@@ -78,7 +78,7 @@ header table td, header table th {
     text-decoration: underline;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1150px) {
     .container{
         display: flex;
         flex-direction: column;
